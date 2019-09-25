@@ -1,21 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display&display=swap');
 
-body {
+Footer{
+    background-color: #e4e4e4;
+}
+
+
+
+Footer a, Footer p {
   margin: 0;
   font-family: "Playfair Display", arial, helvetica, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
-
-h1, h2, h3, h4, h5, h6{
-  font-weight: normal;
-  color:#333;
-  line-height: 1;
-}
-
-p, a{
-  color: #77626b;
-  font-family: arial, helvetica, sans-serif;
-  font-size: 12px;
-  line-height: 1.42857rem;
+  color: #666;
 }

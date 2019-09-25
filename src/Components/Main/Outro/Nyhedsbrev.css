@@ -1,0 +1,19 @@
+.Nyhedsbrev{
+    font-family: Helvetica, Arial, sans-serif;
+    color: #666;
+}
+
+.Nyhedsbrev h2{
+    font-weight: bold;
+    font-size: 18px;
+    color: #666;
+}
+
+.Nyhedsbrev li{
+    list-style: none;
+}
+
+.Nyhedsbrev label{
+    font-size: 12px;
+    margin: 0;
+}
